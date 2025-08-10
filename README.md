@@ -1,3 +1,29 @@
+ Bank Attrition Analysis
+This project analyzes customer data from a retail bank to identify patterns and factors influencing customer attrition (churn). The goal is to explore demographic, behavioral, and financial attributes to better understand why customers leave and provide insights for retention strategies.
+
+Key Objectives:
+
+Perform data cleaning & preprocessing (handling missing values, standardizing columns, managing duplicates).
+
+Explore customer demographics (age, gender, state) and their correlation with churn.
+
+Analyze financial factors like credit score, account balance, salary category, and debt-to-income ratio.
+
+Investigate product usage behavior such as number of products, loan holding, card type, and loyalty score.
+
+Use visualizations to highlight churn trends and high-risk customer segments.
+
+Key Deliverables:
+
+Cleaned and structured dataset ready for modeling.
+
+Exploratory Data Analysis (EDA) charts showing churn drivers.
+
+Insights for potential customer retention strategies.
+
+Tools & Technologies:
+Python (Pandas, NumPy, Matplotlib, Seaborn) | Jupyter Notebook
+
 
 # Bank-Attrition-Analyis
 This project analyzes customer data from a retail bank to identify patterns and factors influencing customer attrition (churn). The goal is to explore demographic, behavioral, and financial attributes to better understand why customers leave and provide insights for retention strategies.
